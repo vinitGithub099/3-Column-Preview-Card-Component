@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/vinitGithub099/3-Column-Preview-Card-Componen](https://github.com/vinitGithub099/3-Column-Preview-Card-Componen)
+- Solution URL: [https://github.com/vinitGithub099/3-Column-Preview-Card-Component](https://github.com/vinitGithub099/3-Column-Preview-Card-Component)
 - Live Site URL: [https://vinitgithub099.github.io/3-Column-Preview-Card-Component/]( https://vinitgithub099.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
